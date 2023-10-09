@@ -111,9 +111,16 @@ flowchart TD
 ```
 ## 5. Conceptos Ingeneria de Software
 
+###  5.1 Atributos de calidad de software
+
+Uno de los insumos más importantes para el trabajo de un arquitecto de software son los atributos de calidad. ¿Por qué? Porque guían muchas de las actividades que estos realizan.
+
+En este artículo quiero hablarte de qué son atributos de calidad, y darte una lista de los atributos principales. La idea es que la puedas consultar cuando estés trabajando en los atributos de tu proyecto.
+
+#### [Articulo sobre atriutos de calidad :orange_book:]](https://manuelzapata.co/atributos-de-calidad/#:~:text=Adaptabilidad.,las%20necesidades%20de%20los%20usuarios).)
 #### [Atributos de calidad del software :movie_camera:](https://www.youtube.com/watch?v=NmRuhzyKCWM&list=PLFHx3afTdaY0hvX2NXRxMVM3j5sk-3aE3&index=5)
 
-###  5.1 Acoplamiento
+###  5.2 Acoplamiento
 
 El acoplamiento es nivel de dependencia que existe entre dos unidades de software, es decir, indica hasta qué grado una unidad de software puede funcionar
 sin recurrir a la otra. 
@@ -125,7 +132,7 @@ información que vemos en el sistema, entonces podríamos decir que existe un Al
 
 #### [Acoplamiento :movie_camera:](https://www.youtube.com/watch?v=0ggDGJTAFVs&list=PLFHx3afTdaY3tPDnw0O0WDu1c3PSuMLNf&index=4)
 
-### 5.2 Cohesión
+### 5.3 Cohesión
 
 la cohesión es una medida del grado en que los elementos del módulo están relacionados funcionalmente, es decir, se refiere al grado en que los elementos de
 un módulo permanecen juntos.
@@ -138,7 +145,7 @@ una única problemática.
 
 #### [Cohesión :movie_camera:](https://www.youtube.com/watch?v=bLEnvIBak60&list=PLFHx3afTdaY3tPDnw0O0WDu1c3PSuMLNf&index=7)
 
-### 5.3 SOLID
+### 5.4 SOLID
 
 Hemos dejado para el final el acrónimo SOLID, el cual es en realidad de unión de
 5 principios que para muchos son los más importantes de todos, este acrónimo
@@ -152,8 +159,8 @@ referencia a:
   - I: Interface segregation principle (ISP)
   - D: Dependency inversion principle (DIP)
   - 
-#### [SOLID :orange_book:](https://profile.es/blog/principios-solid-desarrollo-software-calidad/#Los_principios_SOLID)
-#### [SOLID :movie_camera:](https://www.youtube.com/watch?v=rMlPvEhrHDs&list=PLFHx3afTdaY3tPDnw0O0WDu1c3PSuMLNf&index=2)
+#### [S.O.L.I.D :orange_book:](https://profile.es/blog/principios-solid-desarrollo-software-calidad/#Los_principios_SOLID)
+#### [S.O.L.I.D :movie_camera:](https://www.youtube.com/watch?v=rMlPvEhrHDs&list=PLFHx3afTdaY3tPDnw0O0WDu1c3PSuMLNf&index=2)
 
 
 
