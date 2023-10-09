@@ -117,7 +117,7 @@ Uno de los insumos más importantes para el trabajo de un arquitecto de software
 
 En este artículo quiero hablarte de qué son atributos de calidad, y darte una lista de los atributos principales. La idea es que la puedas consultar cuando estés trabajando en los atributos de tu proyecto.
 
-#### [Articulo sobre atriutos de calidad :orange_book:](https://manuelzapata.co/atributos-de-calidad/#:~:text=Adaptabilidad.,las%20necesidades%20de%20los%20usuarios).)
+#### [Articulo sobre atriutos de calidad :orange_book:](https://manuelzapata.co/atributos-de-calidad/#:~:text=Adaptabilidad.,las%20necesidades%20de%20los%20usuarios.)
 #### [Atributos de calidad del software :movie_camera:](https://www.youtube.com/watch?v=NmRuhzyKCWM&list=PLFHx3afTdaY0hvX2NXRxMVM3j5sk-3aE3&index=5)
 
 ###  5.2 Acoplamiento
