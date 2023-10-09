@@ -113,5 +113,47 @@ flowchart TD
 
 #### [Atributos de calidad del software :movie_camera:](https://www.youtube.com/watch?v=NmRuhzyKCWM&list=PLFHx3afTdaY0hvX2NXRxMVM3j5sk-3aE3&index=5)
 
+###  5.1 Acoplamiento
+
+El acoplamiento es nivel de dependencia que existe entre dos unidades de software, es decir, indica hasta qué grado una unidad de software puede funcionar
+sin recurrir a la otra. 
+
+Entonces podemos decir que el acoplamiento es el nivel de dependencia que una unidad de software tiene con la otra. Por ejemplo, imagina una aplicación de
+registro de clientes y su base de datos, dicho esto, ¿qué tan dependiente es la aplicación de la base de datos? ¿podría seguir funcionando la aplicación sin la base
+de datos? Seguramente todos estaremos de acuerdo que sin la base de datos la aplicación no funcionará en absoluto, pues es allí donde se guarda y consulta la
+información que vemos en el sistema, entonces podríamos decir que existe un Alto acoplamiento.
+
+#### [Acoplamiento :movie_camera:](https://www.youtube.com/watch?v=0ggDGJTAFVs&list=PLFHx3afTdaY3tPDnw0O0WDu1c3PSuMLNf&index=4)
+
+### 5.2 Cohesión
+
+la cohesión es una medida del grado en que los elementos del módulo están relacionados funcionalmente, es decir, se refiere al grado en que los elementos de
+un módulo permanecen juntos.
+
+En otras palabras, la cohesión mide que tan relacionados están las unidades de software entre sí, buscando que todas las unidades de software busquen cumplir
+un único objetivo o funcionalidad.
+
+En la práctica, se busca que todos los compontes de software que construyamos sean altamente cohesivos, es decir, que el módulo esté diseñado para resolver
+una única problemática.
+
+#### [Cohesión :movie_camera:](https://www.youtube.com/watch?v=bLEnvIBak60&list=PLFHx3afTdaY3tPDnw0O0WDu1c3PSuMLNf&index=7)
+
+### 5.3 SOLID
+
+Hemos dejado para el final el acrónimo SOLID, el cual es en realidad de unión de
+5 principios que para muchos son los más importantes de todos, este acrónimo
+fue introducido por primera vez a principios de la década del 2000 por Robert C.
+Martin (mejor conocido por muchos como “el tío Bob”). El acrónimo SOLID hace
+referencia a:
+
+  - S: Single responsibility principle (SRP)
+  - O: Open/closed principle (OCP)
+  - L: Liskov substitution principle (LSP)
+  - I: Interface segregation principle (ISP)
+  - D: Dependency inversion principle (DIP)
+  - 
+#### [SOLID :orange_book:](https://profile.es/blog/principios-solid-desarrollo-software-calidad/#Los_principios_SOLID)
+#### [SOLID :movie_camera:](https://www.youtube.com/watch?v=rMlPvEhrHDs&list=PLFHx3afTdaY3tPDnw0O0WDu1c3PSuMLNf&index=2)
+
 
 
