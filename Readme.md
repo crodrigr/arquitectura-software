@@ -17,3 +17,6 @@
 
 
 [Video: ¿Qué son los patrones de diseño?](https://www.youtube.com/watch?v=pk-lawTRbmg)
+
+![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/584adfd8-0e99-47ff-b728-7a5d0655fe8f)
+
