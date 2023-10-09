@@ -16,4 +16,4 @@
 **Nuevo concepto:**
 Patrones de diseño es la solución a un problema de diseño, el cual debe haber comprobado su efectividad resolviendo problemas similares en el pasado, también tiene que ser reutilizable, por lo que se deben poder usar para resolver problemas parecidos en contextos diferentes.
 
-[](https://www.youtube.com/watch?v=pk-lawTRbmg)
+[Video: ¿Qué son los patrones de diseño?](https://www.youtube.com/watch?v=pk-lawTRbmg)
