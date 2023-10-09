@@ -59,8 +59,25 @@ En el software aplica exactamente igual, pues un estilo arquitectónico determin
 
 ![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/dd92ffe5-4d89-4891-bbec-3a44f1272b94)
 
-[Estilos de arquitecura de software :movie_camera:](https://www.youtube.com/watch?v=PK9TTcTosTw)
+#### [Estilos de arquitecura de software :movie_camera:](https://www.youtube.com/watch?v=PK9TTcTosTw)
 
 
+### 3.1 La relación entre patrones de diseño, arquitectónicos y estilos arquitectónicos
+
+Para una gran mayoría de los arquitectos, incluso experimentados, les es complicado diferenciar con exactitud que es un patrón de diseño, un patrón arquitectónico y un estilo arquitectónico, debido principalmente a que, como ya vimos, no existe definiciones concretas de cada uno, además, existe una línea muy delgada que separa a estos tres conceptos.
+
+Para comprender mejor estos conceptos será necesario de apoyarnos de la siguiente imagen:
 
 
+![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/ded4fc19-ef72-4c8f-bf8b-edff99344e78)
+
+**La relación entre patrones de diseño, patrones arquitectónicos y estilos arquitectónicos**
+
+Como podemos ver en la imagen, los estilos arquitectónicos son los de más alto nivel, y sirve como base para implementar muchos de los patrones arquitectónicos que conocemos, de la misma forma, un patrón arquitectónico puede ser implementado utilizando uno o más patrones de diseño. De esta forma, tenemos que los patrones de diseño son el tipo de patrón más específico y que centra en resolver como las clases se crean, estructura, relacionan y se comportan en tiempo de ejecución, por otra parte, los patrones arquitectónicos se enfocan en los componentes y como se relacionan entre sí, finalmente, los estilos arquitectónicos son marcos de referencia mediante los cuales es posible basarse para crear aplicaciones que compartan ciertas características.
+
+Aun con esta explicación, siempre existe una especial confusión entre los patrones arquitectónicos y los estilos arquitectónicos, es por ello que debemos de recordar que un patrón arquitectónico existe para resolver un problema recurrente, mientras que los estilos arquitectónicos no existen para resolver un problema concreto, si no que más bien sirve para nombrar un diseño arquitectónico recurrente.
+
+![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/309959a9-bbb2-4d22-b80c-a8a74315b5da)
+
+A pesar de que estos 3 conceptos tengan un propósito diferente (aunque relacionado), es importante que cualquier arquitecto de software entienda la diferencia, pues confundirlos puede ser un error grave, es por ello que en este libro nos centraremos en aprender de lleno los principales estilos y patrones arquitectónicos, dejando de lado los patrones de diseño, pues asumimos que a
+estas alturas ya los dominas.
