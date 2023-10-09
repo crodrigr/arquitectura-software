@@ -13,7 +13,7 @@
 
 ## 2. ¿Qué son los patrones de diseño?
 
-**Nuevo concepto:**
-Patrones de diseño es la solución a un problema de diseño, el cual debe haber comprobado su efectividad resolviendo problemas similares en el pasado, también tiene que ser reutilizable, por lo que se deben poder usar para resolver problemas parecidos en contextos diferentes.
+![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/b1670697-fe6f-4538-8588-29741f2788b2)
+
 
 [Video: ¿Qué son los patrones de diseño?](https://www.youtube.com/watch?v=pk-lawTRbmg)
