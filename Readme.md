@@ -59,6 +59,8 @@ En el software aplica exactamente igual, pues un estilo arquitectónico determin
 
 ![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/dd92ffe5-4d89-4891-bbec-3a44f1272b94)
 
+[Estilos de arquitecura de software :movie_camera:](https://www.youtube.com/watch?v=PK9TTcTosTw)
+
 
 
 
