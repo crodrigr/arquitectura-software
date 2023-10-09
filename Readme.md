@@ -94,7 +94,7 @@ A continuación encontras los links de ejemplos en java de patrones de diseño.
 
 ```mermaid
 flowchart TD
-    A[Patrones de Diseño <a href='https://www.youtube.com/watch?v=cwfuydUHZ7o&list=PLvimn1Ins-41Uiugt1WbpyFo1XT1WOquL&index=1'>link</a>] --> B[Creación]
+    A[Patrones de Diseño <a href='https://www.youtube.com/watch?v=cwfuydUHZ7o&list=PLvimn1Ins-41Uiugt1WbpyFo1XT1WOquL&index=1'>&#128110;</a>] --> B[Creación]
     A -->C[Estructurales]
     A -->D[Comportamiento]
     
