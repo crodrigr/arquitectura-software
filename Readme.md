@@ -87,3 +87,17 @@ Aun con esta explicación, siempre existe una especial confusión entre los patr
 
 A pesar de que estos 3 conceptos tengan un propósito diferente (aunque relacionado), es importante que cualquier arquitecto de software entienda la diferencia, pues confundirlos puede ser un error grave, es por ello que en este libro nos centraremos en aprender de lleno los principales estilos y patrones arquitectónicos, dejando de lado los patrones de diseño, pues asumimos que a
 estas alturas ya los dominas.
+
+## 4. Patrones de diseños
+
+A continuación encontras los links de ejemplos en java de patrones de diseño. 
+
+```mermaid
+flowchart TD
+    A[Patrones de Diseño <a href='https://www.youtube.com/watch?v=cwfuydUHZ7o&list=PLvimn1Ins-41Uiugt1WbpyFo1XT1WOquL&index=1'>link</a>] --> B[Creación]
+    A -->C[Estructurales]
+    A -->D[Comportamiento]
+    
+    
+```
+
