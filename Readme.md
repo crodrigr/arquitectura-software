@@ -24,5 +24,5 @@
 
 ![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/a1926874-7e0c-4f35-bb59-eaa8c749eb65)
 
-## [Diferencia entre patrones de diseño y patrones arquitectónicos 🤔](https://www.youtube.com/watch?v=VyMRGf0Dji4&list=PLFHx3afTdaY3pAFWNUEJRCeiIw4raCi3U&index=9)
+## [¿Cuál es la iferencia entre patrones de diseño y patrones arquitectónicos 🤔](https://www.youtube.com/watch?v=VyMRGf0Dji4&list=PLFHx3afTdaY3pAFWNUEJRCeiIw4raCi3U&index=9)
 ## [¿Para qué sirven los Patrones de Arquitectura? 🤔](https://www.youtube.com/watch?v=87lBMvk75eM&list=PLFHx3afTdaY0KR3h_NVjoWajr2OLRiqPv)
