@@ -55,4 +55,10 @@ En el software aplica exactamente igual, pues un estilo arquitectónico determin
 
 ![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/c5622123-24e6-4b4e-abcf-43d94e89d4de)
 
+![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/72ccf8cb-272e-4d74-8ec2-085d95d68274)
+
+![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/dd92ffe5-4d89-4891-bbec-3a44f1272b94)
+
+
+
 
