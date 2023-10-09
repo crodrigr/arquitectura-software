@@ -11,6 +11,9 @@
 
 #### [¿Qué es la arquitectura de software? :movie_camera:](https://www.youtube.com/watch?v=7ukajubprdE&list=PLFHx3afTdaY0hvX2NXRxMVM3j5sk-3aE3&index=2)
 
+<br>
+
+
 ## 2. ¿Qué son los patrones de diseño?
 
 ![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/b1670697-fe6f-4538-8588-29741f2788b2)
@@ -46,6 +49,9 @@ Cuando el usuario entra a la aplicación, lo hará a través de la capa de prese
 Dicho lo anterior, si alguna de las 3 capas falla, tendremos una falla total de la aplicación, ya que, si la capa de presentación falla, entonces el usuario no podrá ver nada, si la capa de negocios falla, entonces la aplicación no podrá guardar o solicitar información a la base de datos y finalmente, si la capa de datos falla, entonces no podremos recuperar ni actualizar información de la base de datos. En cualquiera de los casos, en usuario quedará inhabilitado para usar la aplicación,tendiendo con ello una falla total de la aplicación.
 
 Por otra parte, si decidimos cambiar el patrón arquitectónico una vez que la aplicación ha sido construida, tendremos un impacto mayor, pues tendremos que modificar todas las vistas para ya no usar la capa de negocios, la capa de negocio tendrá que cambiar para ya no acceder a la capa de datos, y la capa de datos quizás tenga que cambiar para adaptarse al nuevo patrón arquitectónico, sea como sea, la aplicación tendrá un fuerte impacto. Además del impacto que tendrá el componente, hay patrones que su modificación podría impactar a otros componentes, incluso, compontes externos que están fuera de nuestro dominio, lo que complicaría aún más las cosas.
+
+<br>
+
 
 ## 3. ¿Qué son los estilos arquitectónicos?
 
