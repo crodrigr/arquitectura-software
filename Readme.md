@@ -20,6 +20,8 @@
 
 ![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/584adfd8-0e99-47ff-b728-7a5d0655fe8f)
 
-**Patrones de diseño y patrones arquitectonicos**
+**Patrones de diseño y patrones arquitectónicos**
 
 ![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/a1926874-7e0c-4f35-bb59-eaa8c749eb65)
+
+(Diferencia entre patrones de diseño y patrones arquitectónicos)[https://www.youtube.com/watch?v=VyMRGf0Dji4&list=PLFHx3afTdaY3pAFWNUEJRCeiIw4raCi3U&index=9]
