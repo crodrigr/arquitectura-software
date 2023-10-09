@@ -26,3 +26,15 @@
 
 ### [¿Cuál es la iferencia entre patrones de diseño y patrones arquitectónicos 🤔](https://www.youtube.com/watch?v=VyMRGf0Dji4&list=PLFHx3afTdaY3pAFWNUEJRCeiIw4raCi3U&index=9)
 ### [¿Para qué sirven los Patrones de Arquitectura? 🤔](https://www.youtube.com/watch?v=87lBMvk75eM&list=PLFHx3afTdaY0KR3h_NVjoWajr2OLRiqPv)
+
+### 2.1 ¿Cómo diferenciar un patrón arquitectónico?
+
+Los patrones arquitectónicos son fáciles de reconocer debido a que tiene un impacto global sobre la aplicación, e incluso, el patrón rige la forma de trabajar o
+comunicarse con otros componentes, es por ello que a cualquier cambio que se realice sobre ellos tendrá un impacto directo sobre el componente, e incluso, podría tener afectaciones con los componentes relacionados.
+
+Un ejemplo típico de un patrón arquitectónico es el denominado “Arquitectura en 3 capas”, el cual consiste en separar la aplicación 3 capas diferentes, las cuales corresponden a la capa de presentación, capa de negocio y capa de datos:
+
+**Arquitectura en tres capas**
+![image](https://github.com/crodrigr/arquitectura-software/assets/31961588/a4a09ebc-94fc-46b7-aa5a-016ed21a2059)
+
+
